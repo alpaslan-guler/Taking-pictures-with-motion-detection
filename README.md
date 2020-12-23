@@ -1,5 +1,5 @@
-# Taking-pictures-with-motion-detection
-# Hareket algılama ile fotoğraf çekme
+# Taking photos with motion detection and sending to email address
+# Hareket algılama ile fotoğraf çekme ve email adresine yollamak
 
 Raspberrypi 4 Model B ile Hareket Algılama ile Fotoğraf Çekerek Email Adresine Yollama
 Taking Pictures with Motion Detection with Raspberrypi 4 Model B and Sending to E-mail Address
@@ -13,9 +13,11 @@ Kullanılan Kütüphaneler / Libraries Used of Python
 - import sleep
 
 - Raspberrypi 4 Model B
-- Raspberrypi 4 Model B uyumlu Pır(Hareket Sensörü Örneğin: HC-SR501) / Raspberrypi 4 Model B compatible Pır (Movement Shield For example: HC-SR501)
+- Raspberrypi 4 Model B uyumlu Pır(Hareket Sensörü Örneğin: HC-SR501)
+- Raspberrypi 4 Model B compatible Pır (Movement Shield For example: HC-SR501)
 
-- Pi configürasyondan Kamerayı Açık konuma getirin. / Turn Camera On from Pi config.
+- Pi configürasyondan Kamerayı Açık konuma getirin.
+- Turn Camera On from Pi config.
 
 - Cam-pi-email.py dosyası ile Database klasörünü ayni kalasör içinde bulundurun(Ör: /home/pi/Desktop içinde)
 - Place the Cam-pi-email.py file and the Database folder in the same folder (Ex: in /home/pi/Desktop)
