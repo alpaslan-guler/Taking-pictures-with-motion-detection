@@ -2,6 +2,7 @@
 # Hareket algılama ile fotoğraf çekme ve email adresine yollamak
 
 Raspberrypi 4 Model B ile Hareket Algılama ile Fotoğraf Çekerek Email Adresine Yollama
+
 Taking Pictures with Motion Detection with Raspberrypi 4 Model B and Sending to E-mail Address
 
 Kullanılan Kütüphaneler / Libraries Used of Python
